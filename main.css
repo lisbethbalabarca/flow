@@ -1,0 +1,15 @@
+div{
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.azul{
+	top:201px;
+	left: 201px;
+	position: absolute;
+}
